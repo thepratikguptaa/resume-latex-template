@@ -20,11 +20,5 @@ https://www.overleaf.com/latex/templates/data-science-tech-cover-letter-template
 - section/activities: optional, could comment out in resume.tex.
 
 
-### Editor:
-https://github.com/TimmyChan 
-https://www.linkedin.com/in/timmy-l-chan/
-#### Contributors: 
-https://github.com/xiazeyu
-https://github.com/iamgmujtaba
                
-### Last Updated: April 11th, 2022
+### Last Updated: June 25, 2025
